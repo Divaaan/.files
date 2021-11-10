@@ -5,7 +5,9 @@
 
 <!-- _______ -->
 
-![Header image](./assets/images/dotfiles-image.jpeg#center)
+<p align="center">
+    <img width="460" src="./assets/images/dotfiles-image.png#center">
+</p>
 
 <!-- https://github.com/VapourNvim/VapourNvim
 https://github.com/carloscuesta/gitmoji-cli -->
