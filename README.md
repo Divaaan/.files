@@ -11,27 +11,20 @@
     </a>
 </p>
 
-<img width="445" height="1">
-
-<p align="center">
-    <a href="https://github.com/Divaaan/.files">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divaaan&repo=.files&theme=nord" />
-    </a>
-</p>
-
-<img width="445" height="1">
-
 <h1>👨‍💻 The cool stuff I use</h1>
 <table>
     <tr>
         <th align="center">
-            <h3>NAME</h3>
+            <img width="445">
+            <h5>NAME</h5>
         </th>
         <th align="center">
-            <h3>WHAT I USE IT FOR</h3>
+            <img width="445">
+            <h5>WHAT I USE IT FOR</h5>
         </th>
         <th align="center">
-            <h3>🔗</h3>
+            <img width="445">
+            <h5>🔗</h5>
         </th>
     </tr>
     <tr>
