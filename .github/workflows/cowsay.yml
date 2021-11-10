@@ -8,4 +8,4 @@ jobs:
   cowsay:
     runs-on: ubuntu-latest
     steps:
-      - uses: uses: vincetse/fortune-cookie-action@v3
+      - uses: vincetse/fortune-cookie-action@v3
