@@ -25,15 +25,12 @@
 <table>
     <tr>
         <th align="center">
-            <img width="445" height="1">
             <h3>NAME</h3>
         </th>
         <th align="center">
-            <img width="445" height="1">
             <h3>WHAT I USE IT FOR</h3>
         </th>
         <th align="center">
-            <img width="445" height="1">
             <h3>🔗</h3>
         </th>
     </tr>
