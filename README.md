@@ -15,16 +15,16 @@
 <table>
     <tr>
         <th align="center">
-            <img width="445">
-            <h5>NAME</h5>
+            <h6>NAME</h6>
+            <img width="450">
         </th>
         <th align="center">
-            <img width="445">
-            <h5>WHAT I USE IT FOR</h5>
+            <h6>WHAT I USE IT FOR</h6>
+            <img width="450">
         </th>
         <th align="center">
-            <img width="445">
-            <h5>🔗</h5>
+            <h6>🔗</h6>
+            <img width="450">
         </th>
     </tr>
     <tr>
