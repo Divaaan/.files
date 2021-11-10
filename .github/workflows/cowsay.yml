@@ -1,4 +1,4 @@
-name: Cowsay
+name: Cowsay Fortune
 on:
   push:
     branches:
