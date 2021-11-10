@@ -2,7 +2,7 @@
     <img src="./assets/images/dotfiles-image.png" width="500">
 </p>
 
-<h1 align="center">🧮 .files</h1>
+<h1 align="center">🧮 .files (WIP)</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Builds-blue?style=for-the-badge&logo=Common Workflow Language">
@@ -11,22 +11,69 @@
     </a>
 </p>
 
+<img width="445" height="1">
+
 <p align="center">
     <a href="https://github.com/Divaaan/.files">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divaaan&repo=.files&theme=nord" />
     </a>
 </p>
 
+<img width="445" height="1">
+
 <h1>👨‍💻 The cool stuff I use</h1>
-<ul>
-    <li><a href="https://github.com/VapourNvim/VapourNvim">VapourNvim (Neomvim environment + configs)</a></li>
-    <li><a href="https://simpleicons.org">Simple icons</a></li>
-    <li><a href="https://shields.io">Shields (Badges you see on this readme)</a></li>
-    <li><a href="https://github.com/Alexays/Waybar">Waybar (OS top bar)</a></li>
-    <li><a href="https://github.com/carloscuesta/gitmoji-cli">Gitmoji</a></li>
-    <li><a href="https://github.com/alacritty/alacritty">Alacritty (Terminal)</a></li>
-    <li><a href="https://github.com/tmux/tmux">Tmux (Terminal multiplexer)</a></li>
-</ul>
+<table>
+    <tr>
+        <th align="center">
+            <img width="445" height="1">
+            <h3>NAME</h3>
+        </th>
+        <th align="center">
+            <img width="445" height="1">
+            <h3>WHAT I USE IT FOR</h3>
+        </th>
+        <th align="center">
+            <img width="445" height="1">
+            <h3>🔗</h3>
+        </th>
+    </tr>
+    <tr>
+        <td>Vapour Neovim</td>
+        <td>Development environment for creaing awesome stuff</td>
+        <td><a href="https://github.com/VapourNvim/VapourNvim">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Alacritty</td>
+        <td>A fast and configurable terminal</td>
+        <td><a href="https://github.com/alacritty/alacritty">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Tmux</td>
+        <td>Terminal multiplexer for windows galore</td>
+        <td><a href="https://github.com/tmux/tmux">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Waybar</td>
+        <td>Minimal top bar with all the need the see data</td>
+        <td><a href="https://github.com/Alexays/Waybar">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Gitmoji</td>
+        <td>Commiting code with emojis is fun</td>
+        <td><a href="https://github.com/carloscuesta/gitmoji-cli">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Shields</td>
+        <td>Cool badges for any readme</td>
+        <td><a href="https://shields.io">Show me</a></td>
+    </tr>
+    <tr>
+        <td>Simple icons</td>
+        <td>Who doesn't like some cool icons</td>
+        <td><a href="https://simpleicons.org">Show me</a></td>
+    </tr>
+    <tr><td></td><td></td><td></td></tr>
+</table>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Made%20With-A%20Terminal-red?style=for-the-badge">
