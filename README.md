@@ -1,12 +1,5 @@
-<!-- Imports -->
-<!-- _______ -->
-
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/readme.css" />
-
-<!-- _______ -->
-
 <p align="center">
-    <img width="460" src="./assets/images/dotfiles-image.png#center">
+    <img width="500" src="./assets/images/dotfiles-image.png">
 </p>
 
 <!-- https://github.com/VapourNvim/VapourNvim
