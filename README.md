@@ -14,18 +14,9 @@
 <h1>👨‍💻 The cool stuff I use</h1>
 <table>
     <tr>
-        <th align="center">
-            <h6>NAME</h6>
-            <img width="450">
-        </th>
-        <th align="center">
-            <h6>WHAT I USE IT FOR</h6>
-            <img width="450">
-        </th>
-        <th align="center">
-            <h6>🔗</h6>
-            <img width="450">
-        </th>
+        <th align="center">NAME<img width="450"></th>
+        <th align="center">WHAT I USE IT FOR<img width="450"></th>
+        <th align="center">🔗<img width="450"></th>
     </tr>
     <tr>
         <td>Vapour Neovim</td>
