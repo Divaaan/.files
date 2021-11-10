@@ -4,9 +4,7 @@
 
 <h1 align="center">.files :abacus: </h1>
 
-<p align="center">
 ![Cowsay Fortune](https://github.com/Divaaan/.files/actions/workflows/cowsay.yml/badge.svg)
-</p>
 
 <!-- 
 https://github.com/VapourNvim/VapourNvim
