@@ -1,4 +1,4 @@
-name: CowSay
+name: Cowsay
 on:
   push:
     branches:
