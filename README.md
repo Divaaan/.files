@@ -4,6 +4,7 @@
 
 <h1 align="center">.files :abacus: </h1>
 
+![Cowsay Fortune](https://github.com/Divaaan/.files/actions/workflows/cowsay.yml/badge.svg)
 
 <!-- 
 https://github.com/VapourNvim/VapourNvim
