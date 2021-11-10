@@ -8,6 +8,4 @@ jobs:
   cowsay:
     runs-on: ubuntu-latest
     steps:
-      - uses: gr2m/cowsay-action@v1.x
-        with:
-          text: "This is pretty cool right? RIGHT??"
+      - uses: uses: vincetse/fortune-cookie-action@v3
