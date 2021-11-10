@@ -2,13 +2,7 @@
     <img src="./assets/images/dotfiles-image.png" width="500">
 </p>
 
-<h1 align="center">.files :open_file_folder: </h1> 
-
-
-
-```
-The aim of this repository is to show off & keep all my personalized environment configurations.
-```
+<h1 align="center">.files :abacus: </h1>
 
 
 <!-- 
