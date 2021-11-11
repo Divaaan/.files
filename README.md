@@ -57,13 +57,15 @@
     <tr><td></td><td></td><td></td></tr>
 </table>
 
+<!--  -->
+
 <table>
 <tr>
 <th align="center">
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+THE TECH
 </small>
 </p>
 </th>
@@ -71,37 +73,30 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+WHY I USE IT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+🔗
 </small>
 </p>
 </th>
 </tr>
 <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+VapourNvim
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+Development environment for creaing awesome stuff
+</td>
+<td>
+<a href="https://github.com/VapourNvim/VapourNvim">
+Show me
+</a>
 </td>
 </tr>
 <tr>
@@ -114,6 +109,8 @@ Column 2
 </tr>
 </table>
 
+<!--  -->
+
 <p align="center">
-    <img src="https://img.shields.io/badge/Made%20With-A%20Terminal-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Made%20With%20-🤍%20&%20A%20Terminal-red?style=for-the-badge">
 </p>
