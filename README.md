@@ -12,52 +12,6 @@
 </p>
 
 <h1>👨‍💻 The cool stuff I use</h1>
-<table>
-    <tr>
-        <th align="center">NAME<img width="450"></th>
-        <th align="center">WHAT I USE IT FOR<img width="450"></th>
-        <th align="center">🔗<img width="450"></th>
-    </tr>
-    <tr><td></td><td></td><td></td></tr>
-    <tr>
-        <td>Vapour Neovim</td>
-        <td>Development environment for creaing awesome stuff</td>
-        <td><a href="https://github.com/VapourNvim/VapourNvim">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Alacritty</td>
-        <td>A fast and configurable terminal</td>
-        <td><a href="https://github.com/alacritty/alacritty">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Tmux</td>
-        <td>Terminal multiplexer for windows galore</td>
-        <td><a href="https://github.com/tmux/tmux">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Waybar</td>
-        <td>Minimal top bar with all the need the see data</td>
-        <td><a href="https://github.com/Alexays/Waybar">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Gitmoji</td>
-        <td>Commiting code with emojis is fun</td>
-        <td><a href="https://github.com/carloscuesta/gitmoji-cli">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Shields</td>
-        <td>Cool badges for any readme</td>
-        <td><a href="https://shields.io">Show me</a></td>
-    </tr>
-    <tr>
-        <td>Simple icons</td>
-        <td>Who doesn't like some cool icons</td>
-        <td><a href="https://simpleicons.org">Show me</a></td>
-    </tr>
-    <tr><td></td><td></td><td></td></tr>
-</table>
-
-<!--  -->
 
 <table>
 <tr>
@@ -87,13 +41,13 @@ WHY I USE IT
 </th>
 </tr>
 <tr>
-<td>
+<td align="center">
 VapourNvim
 </td>
-<td>
+<td align="center">
 Development environment for creaing awesome stuff
 </td>
-<td>
+<td align="center">
 <a href="https://github.com/VapourNvim/VapourNvim">
 Show me
 </a>
@@ -101,10 +55,82 @@ Show me
 </tr>
 <tr>
 <td align="center">
-Column 1
+Alacritty
 </td>
 <td align="center">
-Column 2
+A fast and configurable terminal
+</td>
+<td align="center">
+<a href="https://github.com/alacritty/alacritty">
+Show me
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+Tmux
+</td>
+<td align="center">
+Terminal multiplexer for windows galore
+</td>
+<td align="center">
+<a href="https://github.com/tmux/tmux">
+Show me
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+Waybar
+</td>
+<td align="center">
+Minimal top bar with all the need the see data
+</td>
+<td align="center">
+<a href="https://github.com/Alexays/Waybar">
+Show me
+</a>
+</td>
+</tr>
+</tr>
+<tr>
+<td align="center">
+Gitmoji
+</td>
+<td align="center">
+Commiting code with emojis is fun
+</td>
+<td align="center">
+<a href="https://github.com/carloscuesta/gitmoji-cli">
+Show me
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+Shields
+</td>
+<td align="center">
+Cool badges for any readme
+</td>
+<td align="center">
+<a href="https://shields.io/">
+Show me
+</a>
+</td>
+</tr>
+</tr>
+<tr>
+<td align="center">
+Simple icons
+</td>
+<td align="center">
+Who doesn't like some cool icons
+</td>
+<td align="center">
+<a href="https://simpleicons.org/">
+Show me
+</a>
 </td>
 </tr>
 </table>
