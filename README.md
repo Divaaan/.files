@@ -135,7 +135,7 @@ Show me
 </tr>
 </table>
 
-<!--  -->
+<img width="441" height="1">
 
 <p align="center">
     <img src="https://img.shields.io/badge/Made%20With%20-🤍%20&%20A%20Terminal-red?style=for-the-badge">
